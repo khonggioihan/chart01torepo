@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart01:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-09T04:07:04.307697434-07:00"
+    description: A Helm chart for Kubernetes
+    digest: ce516488c0e93e63753602da0c92002683ff4b92bebe4755174c6951a80c9675
+    name: chart01
+    type: application
+    urls:
+    - https://khonggioihan.github.io/chart01-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-09T04:07:04.30662233-07:00"
